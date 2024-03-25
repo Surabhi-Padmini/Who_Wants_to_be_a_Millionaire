@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Who Wants to be a Millionaire</string>
+    <string name="gameinstructions">
+        \n1. Start the game.\n
+        \n2. Choose the correct answer. \n
+        \n3. Once answer is confirmed, it cannot change. \n
+        \n4. Player can claim winning amount at any level by clicking prize money. \n
+        \n5. Correct answer will turn to green and wrong answers will turn to orange.\n
+    </string>
+    <string name="Proceed">proceed</string>
+    <string name="exit_toast_msg">You have exited the game, prize money lost.</string>
+    <string name="are_you_sure">\nIs that your final answer?\n\nLast chance to change your answer</string>
+    <string name="exit_game_title">Exit Game?</string>
+    <string name="confirmedAlready">Answer already confirmed. Cannot chance answer. \nPlease proceed to next question.</string>
+    <string name="confirmed">Answer confirmed, \nPlease proceed. </string>
+    <string name="confirmed_wrong">Wrong answer confirmed, \nPlease proceed. </string>
+    <string name="q1">In Ancient Egyptian Mythology, who was the god of the sun?</string>
+    <string name="q1a1">A. Ra</string>
+    <string name="q1a2">B. Horus</string>
+    <string name="q1a3">C. Osiris</string>
+    <string name="q1a4">D. Geb</string>
+    <string name="q2">At which London landmark was Anne Boleyn executed? </string>
+    <string name="q2a1">A. Haring Cross</string>
+    <string name="q2a2">B. Westminster Abbey</string>
+    <string name="q2a3">C. Tower of London</string>
+    <string name="q2a4">D. Ludgate Hill</string>
+    <string name="q3">Which of these is a book of The Bible </string>
+    <string name="q3a1">A. Song of Solomon</string>
+    <string name="q3a2">B. Song of Samuel</string>
+    <string name="q3a3">C. Song of Saul</string>
+    <string name="q3a4">D. Song of Samson</string>
+    <string name="q4">Pol Pat was a leader of which Country in the 1970s? </string>
+    <string name="q4a1">A. Laos</string>
+    <string name="q4a2">B. Thailand</string>
+    <string name="q4a3">C. Burma</string>
+    <string name="q4a4">D. Cambodia</string>
+    <string name="q5">Who is the only best actress oscar winner to also win an oscar for best original song?</string>
+    <string name="q5a1">A. Julie Andrews</string>
+    <string name="q5a2">B. Liza Minnelli</string>
+    <string name="q5a3">C. Barbra Streisand</string>
+    <string name="q5a4">D. Cher</string>
+    <string name="q6">Who was the US president at the outbreak of World War One?</string>
+    <string name="q6a1">A. Woodrow Wilson</string>
+    <string name="q6a2">B. Calvin Coolidge</string>
+    <string name="q6a3">C. Herbert Hoover</string>
+    <string name="q6a4">D. William Taft</string>
+    <string name="q7">By what name was the city of St.Petersburg known between 1924 to 1991?</string>
+    <string name="q7a1">A. Stalingrad</string>
+    <string name="q7a2">B. Nizhniy Novogorod</string>
+    <string name="q7a3">C. Leningrad</string>
+    <string name="q7a4">D. Petrograd</string>
+    <string name="q8"> In the UK, the abbreviation NHS stands for National what service? </string>
+    <string name="q8a1">A. Health</string>
+    <string name="q8a2">B. Humanity</string>
+    <string name="q8a3">C. Honour</string>
+    <string name="q8a4">D. Household</string>
+    <string name="q9">Which Disney character famously leaves a glass slipper behind at a royal ball? </string>
+    <string name="q9a1">A. Pocahontas</string>
+    <string name="q9a2">B. Cinderella</string>
+    <string name="q9a3">C. Sleeping Beauty</string>
+    <string name="q9a4">D. Elsa</string>
+    <string name="q10">Which of these brands was chiefly associated with the manufacture of household locks? </string>
+    <string name="q10a1">A. Chubb</string>
+    <string name="q10a2">B. Phillips</string>
+    <string name="q10a3">C. Flymo</string>
+    <string name="q10a4">D. Ronseal</string>
+    <string name="money_1">$ 0</string>
+    <string name="money_2">$ 1000</string>
+    <string name="money_3">$ 2000</string>
+    <string name="money_4">$ 7500</string>
+    <string name="money_5">$ 15000</string>
+    <string name="money_6">$ 30000</string>
+    <string name="money_7">$ 50000</string>
+    <string name="money_8">$ 100000</string>
+    <string name="money_9">$ 500000</string>
+    <string name="money_10">$ 1000000</string>
+    <string name="you_won_the_">\nBetter luck next time!</string>
+    <string name="you_won_money">You have won $0</string>
+    <string name="claim_your_money">\n\nDo not want to continue?\n\nClick on prize money and claim it.</string>
+
+</resources>
